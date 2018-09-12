@@ -33,7 +33,8 @@
         "expose": [
             "client/dist",
             "client/lang",
-            "thirdparty"
+            "thirdparty",
+            "client/src/font/icons-reference.html"
         ]
     },
     "autoload": {
